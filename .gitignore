@@ -1,0 +1,27 @@
+# Visual Studio files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sdf
+*.opensdf
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Image files
+*.jpg
+*.png
+*.ico
